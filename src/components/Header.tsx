@@ -62,7 +62,8 @@ const Header = () => {
           <div className="flex justify-between items-center py-4">
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3">
-              <img src="company.png" alt="S-AIS Logo" className="h-10 w-auto object-contain"/>
+           <img src={logo} alt="S-Ai Logo" className="h-12 w-auto" />
+
               <div>
               <h1 className="text-xl font-bold text-primary">S-AIS</h1>
               <p className="text-xs text-muted-foreground">Smart IoT Solutions</p>
