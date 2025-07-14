@@ -63,7 +63,7 @@ const Hero = () => {
       </div>
 
       {/* Stats Cards */}
-      <div className="absolute bottom-0 left-0 right-0 z-10">
+      <div className="absolute bottom-0 left-0 right-0 z-10 mb-20">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 transform translate-y-1/2">
             <div className="bg-white/10 backdrop-blur-md rounded-lg p-6 border border-white/20">

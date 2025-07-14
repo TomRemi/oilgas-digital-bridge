@@ -4,6 +4,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Phone, Clock, Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import logo from '../assets/company_Logo.png';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -60,12 +61,10 @@ const Header = () => {
           <div className="flex justify-between items-center py-4">
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-gradient-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-xl">S</span>
-              </div>
+              <img src="company_Logo.png" alt="S-AIS Logo" className="h-10 w-auto object-contain"/>
               <div>
-                <h1 className="text-xl font-bold text-primary">S-AIS</h1>
-                <p className="text-xs text-muted-foreground">Smart IoT Solutions</p>
+              <h1 className="text-xl font-bold text-primary">S-AIS</h1>
+              <p className="text-xs text-muted-foreground">Smart IoT Solutions</p>
               </div>
             </Link>
 
