@@ -4,7 +4,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Phone, Clock, Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
-import logo
+import logo from '../assets/company.pnj';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
