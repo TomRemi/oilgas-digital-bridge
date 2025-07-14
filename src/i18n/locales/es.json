@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "whyUs": "Por Qué Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Liderando la Innovación IoT",
+    "title": "Soluciones IoT Inteligentes para la Industria Petrolera y Gasífera",
+    "subtitle": "Transforma tus operaciones con tecnología IoT de vanguardia, computación en el borde y sistemas de monitoreo en tiempo real diseñados específicamente para el sector petrolero y gasífero.",
+    "cta": "Programar Reunión",
+    "ctaSecondary": "Saber Más"
+  },
+  "services": {
+    "title": "Servicios Que Proporcionamos",
+    "subtitle": "Soluciones integrales de transformación digital para operaciones modernas de petróleo y gas",
+    "iot": {
+      "title": "IoT en Petróleo y Gas",
+      "description": "Redes avanzadas de sensores y dispositivos conectados para visibilidad operacional en tiempo real"
+    },
+    "edge": {
+      "title": "Analítica en el Borde",
+      "description": "Procesa datos en la fuente con poderosas soluciones de computación en el borde para insights inmediatos"
+    },
+    "dashboards": {
+      "title": "Tableros en Tiempo Real",
+      "description": "Plataformas integrales de visualización para monitorear y controlar tus operaciones"
+    },
+    "monitoring": {
+      "title": "Monitoreo Remoto de Campo",
+      "description": "Monitoreo 24/7 de activos remotos con mantenimiento predictivo y sistemas de alerta"
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¿Listo para transformar tus operaciones? Hablemos de tus necesidades.",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "company": "Nombre de la Empresa",
+      "message": "Mensaje",
+      "meetingRequest": "Solicitar Reunión",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "address": "Oficinas Centrales Smart IoT Solutions",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@s-ais.com",
+      "hours": "Soporte 24/7 Disponible"
+    }
+  },
+  "about": {
+    "title": "Acerca de S-AIS",
+    "subtitle": "Liderando la transformación digital de la industria petrolera y gasífera",
+    "description": "Nos especializamos en entregar soluciones IoT de vanguardia, tecnologías de computación en el borde y sistemas integrales de monitoreo que ayudan a las compañías petroleras y gasíferas a optimizar sus operaciones, mejorar la seguridad y maximizar la eficiencia.",
+    "mission": "Nuestra misión es cerrar la brecha entre las operaciones tradicionales de petróleo y gas y las tecnologías digitales modernas.",
+    "experience": "Años de Experiencia",
+    "projects": "Proyectos Exitosos",
+    "clients": "Clientes Satisfechos"
+  },
+  "whyUs": {
+    "title": "Por Qué Elegir S-AIS",
+    "subtitle": "Experiencia industrial se encuentra con tecnología de vanguardia",
+    "expertise": {
+      "title": "Experiencia Industrial",
+      "description": "Profundo entendimiento de operaciones petroleras y gasíferas con soluciones IoT especializadas"
+    },
+    "technology": {
+      "title": "Tecnología Avanzada",
+      "description": "Últimas plataformas de computación en el borde e IoT diseñadas para entornos industriales"
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Monitoreo y soporte las 24 horas para operaciones críticas"
+    },
+    "roi": {
+      "title": "ROI Comprobado",
+      "description": "Ahorros de costos demostrados y mejoras de eficiencia en toda nuestra base de clientes"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services", 
+    "whyUs": "Why Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Leading IoT Innovation",
+    "title": "Smart IoT Solutions for Oil & Gas Industry",
+    "subtitle": "Transform your operations with cutting-edge IoT technology, edge computing, and real-time monitoring systems designed specifically for the oil and gas sector.",
+    "cta": "Schedule Meeting",
+    "ctaSecondary": "Learn More"
+  },
+  "services": {
+    "title": "Services We Provide",
+    "subtitle": "Comprehensive digital transformation solutions for modern oil and gas operations",
+    "iot": {
+      "title": "IoT in Oil & Gas",
+      "description": "Advanced sensor networks and connected devices for real-time operational visibility"
+    },
+    "edge": {
+      "title": "Edge Analytics",
+      "description": "Process data at the source with powerful edge computing solutions for immediate insights"
+    },
+    "dashboards": {
+      "title": "Real-time Dashboards",
+      "description": "Comprehensive visualization platforms for monitoring and controlling your operations"
+    },
+    "monitoring": {
+      "title": "Remote Field Monitoring",
+      "description": "24/7 monitoring of remote assets with predictive maintenance and alert systems"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to transform your operations? Let's discuss your needs.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "message": "Message",
+      "meetingRequest": "Request Meeting",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Smart IoT Solutions HQ",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@s-ais.com",
+      "hours": "24/7 Support Available"
+    }
+  },
+  "about": {
+    "title": "About S-AIS",
+    "subtitle": "Leading the digital transformation of the oil and gas industry",
+    "description": "We specialize in delivering cutting-edge IoT solutions, edge computing technologies, and comprehensive monitoring systems that help oil and gas companies optimize their operations, improve safety, and maximize efficiency.",
+    "mission": "Our mission is to bridge the gap between traditional oil and gas operations and modern digital technologies.",
+    "experience": "Years of Experience",
+    "projects": "Successful Projects",
+    "clients": "Happy Clients"
+  },
+  "whyUs": {
+    "title": "Why Choose S-AIS",
+    "subtitle": "Industry expertise meets cutting-edge technology",
+    "expertise": {
+      "title": "Industry Expertise",
+      "description": "Deep understanding of oil and gas operations with specialized IoT solutions"
+    },
+    "technology": {
+      "title": "Advanced Technology",
+      "description": "Latest edge computing and IoT platforms designed for industrial environments"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock monitoring and support for critical operations"
+    },
+    "roi": {
+      "title": "Proven ROI",
+      "description": "Demonstrated cost savings and efficiency improvements across our client base"
+    }
+  }
+}

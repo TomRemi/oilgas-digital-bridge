@@ -1,13 +1,24 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { useTranslation } from 'react-i18next';
+import { Helmet, HelmetProvider } from 'react-helmet-async';
+import Hero from '@/components/Hero';
+import ServicesSection from '@/components/ServicesSection';
 
 const Index = () => {
+  const { t } = useTranslation();
+
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
+    <HelmetProvider>
+      <Helmet>
+        <title>S-AIS - Smart IoT Solutions for Oil & Gas Industry</title>
+        <meta name="description" content="Leading IoT innovation in the oil and gas industry with edge computing, real-time monitoring, and digital transformation solutions." />
+        <meta name="keywords" content="IoT Oil Gas, Digital Transformation, Edge Computing, Industrial Dashboards, Smart Oilfields, Remote Asset Monitoring" />
+      </Helmet>
+      
+      <div className="min-h-screen">
+        <Hero />
+        <ServicesSection />
       </div>
-    </div>
+    </HelmetProvider>
   );
 };
 
